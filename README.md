@@ -21,7 +21,7 @@ React para front-end e React Native para dispositivos móveis.
 
 :smiley: Continuo aprimorando meus conhecimentos diariamente e aprendendo a usar novas ferramentas para me tornar um Desenvolvedor FullStack.
 
-
+---
 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, ler livros, correr, andar de bike e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-IgorCotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
