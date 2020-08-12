@@ -8,6 +8,8 @@ All the experiences I have had so far, whether professional or academic, have co
 
 :smiley: I continue to improve my knowledge on a daily basis and learn to use new tools to become a FullStack Developer. 
 
+---
+
 # Igor Cotrim
 
 ### Versão em português
