@@ -1,29 +1,51 @@
-# Igor Cotrim
+<h2>I'm Igor Cotrim! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### English version
+### Developer 👨‍💻
 
-All the experiences I have had so far, whether professional or academic, have contributed to my development. In this way, I always try to be learning new things and also improve what I already know so that I can become an increasingly complete professional. 
+[![Twitter: igorcotrim](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/igorcotrim__)
+[![Linkedin: igorcotrim](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/)
+[![GitHub igorcotrim](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/igor-cotrim)
+[![](https://img.shields.io/badge/Gmail-igorxuxicotrim%40gmail.com-red)](mailto:igorxuxicotrim@gmail.com)
 
-:rocket: I am currently studying NodeJS to improve my knowledge on the back-end, React for the front-end and React Native for mobile. 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-:smiley: I continue to improve my knowledge on a daily basis and learn to use new tools to become a FullStack Developer. 
+```javascript
+const Igor = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Java" ],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["React Native", "expo"],
+        frontEnd: {
+            js: ["React"],
+            css: ["bootstrap", "Styled-Components"]
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-# Igor Cotrim
+### Languages and Tools :computer:
 
-### Versão em português
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
-Todas as experiências que tive até agora, sejam profissionais ou acadêmicas, contribuíram para o meu desenvolvimento. Dessa forma, procuro sempre estar aprendendo coisas novas e também aprimorar o que já sei para me tornar um profissional cada vez mais completo.
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
-:rocket: Atualmente estou estudando NodeJS para melhorar meu conhecimento no back-end,
-React para front-end e React Native para dispositivos móveis.
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
-:smiley: Continuo aprimorando meus conhecimentos diariamente e aprendendo a usar novas ferramentas para me tornar um Desenvolvedor FullStack.
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
----
 
- <br/> 💬  &nbsp; About me: Curto tecnologias, games, ler livros, correr, andar de bike e seriados no Netflix
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-IgorCotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igor-cotrim&show_icons=true&hide_border=true)
