@@ -5,7 +5,7 @@
 
 [![Linkedin: igorcotrim](https://img.shields.io/badge/-igorcotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/)
 [![GitHub igorcotrim](https://img.shields.io/github/followers/igor-cotrim?label=follow&style=social)](https://github.com/igor-cotrim)
-[![](https://img.shields.io/badge/Gmail-igorxuxicotrim%40gmail.com-red)](mailto:igorxuxicotrim@gmail.com)
+[![](https://img.shields.io/badge/Gmail-igorcotrim.dev%40gmail.com-red)](mailto:igorcotrim.dev@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
