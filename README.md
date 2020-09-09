@@ -3,8 +3,7 @@
 
 ### Developer 👨‍💻
 
-[![Twitter: igorcotrim](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/igorcotrim__)
-[![Linkedin: igorcotrim](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/)
+[![Linkedin: igorcotrim](https://img.shields.io/badge/-igorcotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/)
 [![GitHub igorcotrim](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/igor-cotrim)
 [![](https://img.shields.io/badge/Gmail-igorxuxicotrim%40gmail.com-red)](mailto:igorxuxicotrim@gmail.com)
 
