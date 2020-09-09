@@ -23,9 +23,6 @@ const Igor = {
         backEnd: {
             js: ["node", "express"]
         },
-        devOps: ["Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 };
