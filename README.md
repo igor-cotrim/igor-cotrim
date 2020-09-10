@@ -21,8 +21,10 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 **Languages and Tools:** 
 
  <a href="https://github.com/igor-cotrim/">
-    <img width="55%" align="right" alt="Igor's github stats" src="https://github-readme-stats.vercel.app/api?username=igor-cotrim&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Igor's github stats" src="https://github-readme-stats.vercel.app/api?username=igor-cotrim&show_icons=true&hide_border=true" />
   </a>
+
+</br>
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 
