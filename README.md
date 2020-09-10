@@ -1,10 +1,8 @@
-<h2>I'm Igor Cotrim! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Igor Cotrim, a Developer 🚀 from Brazil. <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Developer 👨‍💻
-
-[![Linkedin: igorcotrim](https://img.shields.io/badge/-igorcotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/)
-[![GitHub igorcotrim](https://img.shields.io/github/followers/igor-cotrim?label=follow&style=social)](https://github.com/igor-cotrim)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/igor-cotrim)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igorcotrim/)
 [![](https://img.shields.io/badge/Gmail-igorcotrim.dev%40gmail.com-red)](mailto:igorcotrim.dev@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
