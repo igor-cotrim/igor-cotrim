@@ -1,4 +1,4 @@
-<h2>Hi, I'm Igor Cotrim, a Developer 🚀 from Brazil. <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Igor Cotrim, a Web Developer 🚀 from Brazil. <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/igor-cotrim)
@@ -10,11 +10,10 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning React, React Native, Node 🚀;
+- 🌱 I’m currently learning React, React Native and Next 🚀;
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript;
-- 💻 I have worked on Java, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc;
+- 💻 I have worked on Java, HTML/CSS, Javascript, React, NextJS, Gatsby, Nodejs, Expressjs, MySQL, MongoDB, Git, etc;
 - 💬 Ask me about anything! I am happy to help;
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 - 📫 How to reach me: igorcotrim.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/igorcotrim/)
 
 
@@ -30,7 +29,7 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
 
-![Node](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Node](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
