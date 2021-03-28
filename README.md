@@ -5,8 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igorcotrim/)
 [![](https://img.shields.io/badge/Gmail-igorcotrim.dev%40gmail.com-red)](mailto:igorcotrim.dev@gmail.com)
 
-I am a bachelor's degree student in Information Systems 🎓 from the Federal Institute of Bahia - IFBA 🏛. I am a passionate student who is always willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨.
-I am currently working on Web Development 🕸️ and always wanting to improve!
+Hello, my name is Igor 😀 and I am currently studying Information Systems at IFBA in Vitória da Conquista - Bahia. 📖 Technology enthusiast and looking for new challenges, I seek to connect people, problems and find solutions, constantly learning to create innovations that help society as a whole.
+My biggest goals are to achieve a good personal and professional development as a Web Developer 💻, because I believe that the two go together, besides always wanting my work to be the vehicle to improve the lives of other people in some way, that's why I keep the focus in the business and not just generating code.
+To achieve my goals it takes effort and dedication, with that in mind, I try to strive every day because I know that improving 1% a day, every day, in the long run is the guarantee of my success. Learning is continuous! 🚀
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
