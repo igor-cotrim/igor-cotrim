@@ -16,6 +16,7 @@ To achieve my goals it takes effort and dedication, with that in mind, I try to 
 - 💻 I have worked on Java, HTML/CSS, Javascript, React, NextJS, Gatsby, Nodejs, Expressjs, MySQL, MongoDB, Git, etc;
 - 💬 Ask me about anything! I am happy to help;
 - 📫 How to reach me: igorcotrim.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/igorcotrim/)
+- 📟 My Portfolio: https://my-portifolio.vercel.app
 
 
 **Languages and Tools:** 
