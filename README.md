@@ -36,6 +36,7 @@ A SwiftUI app for tracking movies and TV shows, with a Node.js + Supabase backen
 - **SwiftUI** with MVVM + Clean Architecture
 - TMDB API integration with custom backend layer
 - Runtime language switching, multi-platform support
+- [WatchTracker Backend](https://github.com/igor-cotrim/watch-tracker-backend)
 
 ### 📊 [Notion Graphs](https://github.com/igor-cotrim/notion_graphs)
 A workaround for Notion's limitation of allowing only one native chart per page — embed as many custom charts as you want via parameterized URLs.
